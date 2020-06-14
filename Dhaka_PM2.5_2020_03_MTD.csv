@@ -1,0 +1,694 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dhaka,PM2.5 - Principal,2020-03-01 01:00 AM,2020,03,01,01,152.4,203,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 02:00 AM,2020,03,01,02,148.2,199,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 03:00 AM,2020,03,01,03,142.6,196,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 04:00 AM,2020,03,01,04,135.8,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 05:00 AM,2020,03,01,05,126.9,188,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 06:00 AM,2020,03,01,06,129.7,189,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 07:00 AM,2020,03,01,07,132.9,191,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 08:00 AM,2020,03,01,08,147.8,199,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 09:00 AM,2020,03,01,09,144.2,197,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 10:00 AM,2020,03,01,10,126.4,188,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 11:00 AM,2020,03,01,11,108.3,178,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 12:00 PM,2020,03,01,12,126.7,188,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 01:00 PM,2020,03,01,13,129.2,189,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 02:00 PM,2020,03,01,14,118.6,184,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 03:00 PM,2020,03,01,15,110.6,179,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 04:00 PM,2020,03,01,16,94.0,171,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 05:00 PM,2020,03,01,17,82.0,165,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 06:00 PM,2020,03,01,18,84.0,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 07:00 PM,2020,03,01,19,97.4,173,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 08:00 PM,2020,03,01,20,123.2,186,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 09:00 PM,2020,03,01,21,128.1,188,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 10:00 PM,2020,03,01,22,132.5,191,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-01 11:00 PM,2020,03,01,23,138.7,194,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 12:00 AM,2020,03,02,00,139.3,194,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 01:00 AM,2020,03,02,01,134.6,192,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 02:00 AM,2020,03,02,02,134.3,192,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 03:00 AM,2020,03,02,03,141.6,195,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 04:00 AM,2020,03,02,04,147.3,198,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 05:00 AM,2020,03,02,05,133.8,191,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 06:00 AM,2020,03,02,06,134.4,192,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 07:00 AM,2020,03,02,07,135.4,192,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 08:00 AM,2020,03,02,08,135.6,192,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 09:00 AM,2020,03,02,09,131.7,190,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 10:00 AM,2020,03,02,10,129.8,189,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 11:00 AM,2020,03,02,11,122.8,186,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 12:00 PM,2020,03,02,12,109.2,179,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 01:00 PM,2020,03,02,13,106.0,177,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 02:00 PM,2020,03,02,14,105.9,177,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2020-03-02 03:00 PM,2020,03,02,15,114.1,181,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 04:00 PM,2020,03,02,16,109.6,179,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 05:00 PM,2020,03,02,17,109.7,179,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 06:00 PM,2020,03,02,18,120.1,184,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 07:00 PM,2020,03,02,19,143.0,196,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 08:00 PM,2020,03,02,20,172.7,223,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 09:00 PM,2020,03,02,21,197.0,247,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 10:00 PM,2020,03,02,22,214.0,264,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-02 11:00 PM,2020,03,02,23,255.0,305,Hazardous,296.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 12:00 AM,2020,03,03,00,252.0,302,Hazardous,249.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 01:00 AM,2020,03,03,01,254.0,304,Hazardous,256.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 02:00 AM,2020,03,03,02,242.5,292,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 03:00 AM,2020,03,03,03,220.2,270,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 04:00 AM,2020,03,03,04,222.1,272,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 05:00 AM,2020,03,03,05,219.5,269,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 06:00 AM,2020,03,03,06,162.2,213,Very Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 07:00 AM,2020,03,03,07,122.6,186,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 08:00 AM,2020,03,03,08,87.7,168,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 09:00 AM,2020,03,03,09,62.3,155,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 10:00 AM,2020,03,03,10,61.6,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 11:00 AM,2020,03,03,11,63.3,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 12:00 PM,2020,03,03,12,57.6,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 01:00 PM,2020,03,03,13,50.2,137,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 02:00 PM,2020,03,03,14,39.1,110,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 03:00 PM,2020,03,03,15,38.5,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 04:00 PM,2020,03,03,16,41.7,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 05:00 PM,2020,03,03,17,51.8,141,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 06:00 PM,2020,03,03,18,66.4,157,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 07:00 PM,2020,03,03,19,87.2,167,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 08:00 PM,2020,03,03,20,93.6,171,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 09:00 PM,2020,03,03,21,101.8,175,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 10:00 PM,2020,03,03,22,106.9,178,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-03 11:00 PM,2020,03,03,23,110.9,180,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 12:00 AM,2020,03,04,00,103.4,176,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 01:00 AM,2020,03,04,01,94.2,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 02:00 AM,2020,03,04,02,87.1,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 03:00 AM,2020,03,04,03,97.5,173,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 04:00 AM,2020,03,04,04,91.6,170,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 05:00 AM,2020,03,04,05,81.6,164,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 06:00 AM,2020,03,04,06,83.4,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 07:00 AM,2020,03,04,07,98.8,173,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 08:00 AM,2020,03,04,08,157.4,208,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 09:00 AM,2020,03,04,09,176.7,227,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 10:00 AM,2020,03,04,10,140.3,195,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 11:00 AM,2020,03,04,11,103.6,176,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 12:00 PM,2020,03,04,12,84.8,166,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 01:00 PM,2020,03,04,13,86.4,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 02:00 PM,2020,03,04,14,93.2,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 03:00 PM,2020,03,04,15,99.1,174,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 04:00 PM,2020,03,04,16,110.0,179,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 05:00 PM,2020,03,04,17,92.5,170,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 06:00 PM,2020,03,04,18,82.2,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 07:00 PM,2020,03,04,19,86.6,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 08:00 PM,2020,03,04,20,89.2,168,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 09:00 PM,2020,03,04,21,111.6,180,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 10:00 PM,2020,03,04,22,71.3,159,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-04 11:00 PM,2020,03,04,23,57.6,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 12:00 AM,2020,03,05,00,62.8,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 01:00 AM,2020,03,05,01,81.4,164,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 02:00 AM,2020,03,05,02,55.1,149,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 03:00 AM,2020,03,05,03,41.0,115,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 04:00 AM,2020,03,05,04,39.0,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 05:00 AM,2020,03,05,05,45.5,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 06:00 AM,2020,03,05,06,54.2,147,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 07:00 AM,2020,03,05,07,63.1,155,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 08:00 AM,2020,03,05,08,84.5,166,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 09:00 AM,2020,03,05,09,94.7,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 10:00 AM,2020,03,05,10,100.3,174,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 11:00 AM,2020,03,05,11,90.2,169,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 12:00 PM,2020,03,05,12,97.1,172,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 01:00 PM,2020,03,05,13,79.0,163,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 02:00 PM,2020,03,05,14,74.5,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 03:00 PM,2020,03,05,15,75.7,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 04:00 PM,2020,03,05,16,73.3,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 05:00 PM,2020,03,05,17,79.2,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 06:00 PM,2020,03,05,18,98.1,173,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 07:00 PM,2020,03,05,19,86.4,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 08:00 PM,2020,03,05,20,78.0,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 09:00 PM,2020,03,05,21,85.2,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 10:00 PM,2020,03,05,22,91.4,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-05 11:00 PM,2020,03,05,23,76.0,162,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 12:00 AM,2020,03,06,00,73.5,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 01:00 AM,2020,03,06,01,62.7,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 02:00 AM,2020,03,06,02,61.3,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 03:00 AM,2020,03,06,03,65.1,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 04:00 AM,2020,03,06,04,68.5,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 05:00 AM,2020,03,06,05,65.2,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 06:00 AM,2020,03,06,06,70.3,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 07:00 AM,2020,03,06,07,79.1,163,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 08:00 AM,2020,03,06,08,100.9,174,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 09:00 AM,2020,03,06,09,137.4,193,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 10:00 AM,2020,03,06,10,248.2,298,Very Unhealthy,359.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 11:00 AM,2020,03,06,11,210.1,260,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 12:00 PM,2020,03,06,12,177.5,228,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 01:00 PM,2020,03,06,13,136.7,193,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 02:00 PM,2020,03,06,14,88.8,168,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 03:00 PM,2020,03,06,15,57.9,152,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 04:00 PM,2020,03,06,16,52.9,144,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 05:00 PM,2020,03,06,17,49.9,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 06:00 PM,2020,03,06,18,51.9,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 07:00 PM,2020,03,06,19,70.9,159,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 08:00 PM,2020,03,06,20,67.9,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 09:00 PM,2020,03,06,21,56.9,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 10:00 PM,2020,03,06,22,62.4,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-06 11:00 PM,2020,03,06,23,66.2,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 12:00 AM,2020,03,07,00,66.0,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 01:00 AM,2020,03,07,01,69.5,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 02:00 AM,2020,03,07,02,89.7,169,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 03:00 AM,2020,03,07,03,132.9,191,Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 04:00 AM,2020,03,07,04,105.4,177,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 05:00 AM,2020,03,07,05,77.7,162,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 06:00 AM,2020,03,07,06,65.3,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 07:00 AM,2020,03,07,07,57.6,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 08:00 AM,2020,03,07,08,61.3,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 09:00 AM,2020,03,07,09,68.1,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 10:00 AM,2020,03,07,10,70.0,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 11:00 AM,2020,03,07,11,78.5,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 12:00 PM,2020,03,07,12,73.7,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 01:00 PM,2020,03,07,13,74.8,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 02:00 PM,2020,03,07,14,72.9,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 03:00 PM,2020,03,07,15,58.6,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 04:00 PM,2020,03,07,16,45.7,126,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 05:00 PM,2020,03,07,17,41.8,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 06:00 PM,2020,03,07,18,48.4,133,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 07:00 PM,2020,03,07,19,59.7,153,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 08:00 PM,2020,03,07,20,95.3,172,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 09:00 PM,2020,03,07,21,147.6,199,Unhealthy,200.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 10:00 PM,2020,03,07,22,138.3,194,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-07 11:00 PM,2020,03,07,23,133.6,191,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 12:00 AM,2020,03,08,00,173.3,224,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 01:00 AM,2020,03,08,01,201.6,252,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 03:00 AM,2020,03,08,03,218.3,268,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 03:00 AM,2020,03,08,03,239.7,289,Very Unhealthy,261.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 04:00 AM,2020,03,08,04,266.3,317,Hazardous,293.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 05:00 AM,2020,03,08,05,316.7,367,Hazardous,367.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 06:00 AM,2020,03,08,06,299.8,350,Hazardous,283.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 07:00 AM,2020,03,08,07,229.9,280,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 08:00 AM,2020,03,08,08,221.9,272,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 09:00 AM,2020,03,08,09,199.9,250,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 10:00 AM,2020,03,08,10,181.0,231,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 11:00 AM,2020,03,08,11,162.5,213,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 12:00 PM,2020,03,08,12,163.7,214,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 01:00 PM,2020,03,08,13,119.8,184,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 02:00 PM,2020,03,08,14,86.4,167,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 03:00 PM,2020,03,08,15,69.6,158,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 04:00 PM,2020,03,08,16,60.8,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 05:00 PM,2020,03,08,17,62.3,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 06:00 PM,2020,03,08,18,71.1,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 07:00 PM,2020,03,08,19,90.5,169,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 08:00 PM,2020,03,08,20,113.2,181,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 09:00 PM,2020,03,08,21,124.1,186,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 10:00 PM,2020,03,08,22,134.0,192,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-08 11:00 PM,2020,03,08,23,172.5,223,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 12:00 AM,2020,03,09,00,178.2,228,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 01:00 AM,2020,03,09,01,173.1,223,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 02:00 AM,2020,03,09,02,140.0,195,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 03:00 AM,2020,03,09,03,129.0,189,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 04:00 AM,2020,03,09,04,113.5,181,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 05:00 AM,2020,03,09,05,124.2,186,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 06:00 AM,2020,03,09,06,120.6,185,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 07:00 AM,2020,03,09,07,129.8,189,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 08:00 AM,2020,03,09,08,115.4,182,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 09:00 AM,2020,03,09,09,92.1,170,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 10:00 AM,2020,03,09,10,64.5,156,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 11:00 AM,2020,03,09,11,53.7,146,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 12:00 PM,2020,03,09,12,55.3,150,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 01:00 PM,2020,03,09,13,48.1,132,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 02:00 PM,2020,03,09,14,44.5,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 03:00 PM,2020,03,09,15,44.2,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 04:00 PM,2020,03,09,16,42.6,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 05:00 PM,2020,03,09,17,45.3,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 06:00 PM,2020,03,09,18,63.6,155,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 07:00 PM,2020,03,09,19,71.8,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 08:00 PM,2020,03,09,20,101.9,175,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 09:00 PM,2020,03,09,21,105.9,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 10:00 PM,2020,03,09,22,104.4,176,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-09 11:00 PM,2020,03,09,23,99.2,174,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 12:00 AM,2020,03,10,00,95.6,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 01:00 AM,2020,03,10,01,102.8,175,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 02:00 AM,2020,03,10,02,122.4,186,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 03:00 AM,2020,03,10,03,139.7,194,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 04:00 AM,2020,03,10,04,131.3,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 05:00 AM,2020,03,10,05,120.8,185,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 06:00 AM,2020,03,10,06,126.8,188,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 07:00 AM,2020,03,10,07,139.6,194,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 08:00 AM,2020,03,10,08,178.2,228,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 09:00 AM,2020,03,10,09,148.6,199,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 10:00 AM,2020,03,10,10,128.8,189,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 11:00 AM,2020,03,10,11,93.3,171,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 12:00 PM,2020,03,10,12,68.6,158,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 01:00 PM,2020,03,10,13,56.3,151,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 02:00 PM,2020,03,10,14,49.1,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 03:00 PM,2020,03,10,15,43.0,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 04:00 PM,2020,03,10,16,40.0,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 05:00 PM,2020,03,10,17,43.5,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 06:00 PM,2020,03,10,18,52.7,143,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 07:00 PM,2020,03,10,19,82.3,165,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 08:00 PM,2020,03,10,20,97.1,172,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 09:00 PM,2020,03,10,21,121.0,185,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 10:00 PM,2020,03,10,22,133.5,191,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-10 11:00 PM,2020,03,10,23,148.2,199,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 12:00 AM,2020,03,11,00,132.1,191,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 01:00 AM,2020,03,11,01,146.5,198,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 02:00 AM,2020,03,11,02,141.8,196,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 03:00 AM,2020,03,11,03,135.4,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 04:00 AM,2020,03,11,04,127.2,188,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 05:00 AM,2020,03,11,05,129.6,189,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 06:00 AM,2020,03,11,06,136.2,193,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 07:00 AM,2020,03,11,07,180.2,230,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 08:00 AM,2020,03,11,08,174.4,225,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 09:00 AM,2020,03,11,09,133.6,191,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 10:00 AM,2020,03,11,10,112.2,180,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 11:00 AM,2020,03,11,11,100.6,174,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 12:00 PM,2020,03,11,12,114.3,181,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 01:00 PM,2020,03,11,13,96.1,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 02:00 PM,2020,03,11,14,78.5,163,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 03:00 PM,2020,03,11,15,73.7,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 04:00 PM,2020,03,11,16,67.3,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 05:00 PM,2020,03,11,17,73.6,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 06:00 PM,2020,03,11,18,79.3,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 07:00 PM,2020,03,11,19,100.6,174,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 08:00 PM,2020,03,11,20,134.3,192,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 09:00 PM,2020,03,11,21,152.6,203,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 10:00 PM,2020,03,11,22,159.3,210,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-11 11:00 PM,2020,03,11,23,162.6,213,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 12:00 AM,2020,03,12,00,165.8,216,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 01:00 AM,2020,03,12,01,163.9,214,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 02:00 AM,2020,03,12,02,157.9,208,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 03:00 AM,2020,03,12,03,163.5,214,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 04:00 AM,2020,03,12,04,192.2,242,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 05:00 AM,2020,03,12,05,174.1,224,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 06:00 AM,2020,03,12,06,168.8,219,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 07:00 AM,2020,03,12,07,176.3,227,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 08:00 AM,2020,03,12,08,177.5,228,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 09:00 AM,2020,03,12,09,173.6,224,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 10:00 AM,2020,03,12,10,132.1,191,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 11:00 AM,2020,03,12,11,101.5,175,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 12:00 PM,2020,03,12,12,92.2,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 01:00 PM,2020,03,12,13,83.1,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 02:00 PM,2020,03,12,14,75.0,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 03:00 PM,2020,03,12,15,69.5,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 04:00 PM,2020,03,12,16,81.7,165,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 05:00 PM,2020,03,12,17,92.8,170,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 06:00 PM,2020,03,12,18,85.9,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 07:00 PM,2020,03,12,19,105.9,177,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 08:00 PM,2020,03,12,20,115.4,182,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 09:00 PM,2020,03,12,21,126.7,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 10:00 PM,2020,03,12,22,136.8,193,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-12 11:00 PM,2020,03,12,23,147.4,198,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 12:00 AM,2020,03,13,00,150.7,201,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 01:00 AM,2020,03,13,01,151.3,202,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 02:00 AM,2020,03,13,02,157.6,208,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 03:00 AM,2020,03,13,03,168.8,219,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 04:00 AM,2020,03,13,04,150.4,200,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 05:00 AM,2020,03,13,05,134.2,192,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 06:00 AM,2020,03,13,06,133.8,191,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 07:00 AM,2020,03,13,07,132.5,191,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 08:00 AM,2020,03,13,08,128.8,189,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 09:00 AM,2020,03,13,09,121.3,185,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 10:00 AM,2020,03,13,10,98.5,173,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 11:00 AM,2020,03,13,11,89.7,169,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 12:00 PM,2020,03,13,12,81.3,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 01:00 PM,2020,03,13,13,78.1,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 02:00 PM,2020,03,13,14,71.0,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 03:00 PM,2020,03,13,15,72.5,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 04:00 PM,2020,03,13,16,72.2,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 05:00 PM,2020,03,13,17,69.6,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 06:00 PM,2020,03,13,18,82.8,165,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 07:00 PM,2020,03,13,19,107.4,178,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 08:00 PM,2020,03,13,20,122.2,185,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 09:00 PM,2020,03,13,21,130.1,190,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 10:00 PM,2020,03,13,22,140.5,195,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-13 11:00 PM,2020,03,13,23,138.2,194,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 12:00 AM,2020,03,14,00,119.6,184,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 01:00 AM,2020,03,14,01,120.3,184,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 02:00 AM,2020,03,14,02,106.1,177,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 03:00 AM,2020,03,14,03,93.0,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 04:00 AM,2020,03,14,04,86.0,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 05:00 AM,2020,03,14,05,81.7,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 06:00 AM,2020,03,14,06,86.3,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 07:00 AM,2020,03,14,07,80.1,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 08:00 AM,2020,03,14,08,79.0,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 09:00 AM,2020,03,14,09,83.0,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 10:00 AM,2020,03,14,10,82.8,165,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2020-03-14 12:00 PM,2020,03,14,12,-999.0,-999,N/A,276.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 01:00 PM,2020,03,14,13,130.0,189,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 02:00 PM,2020,03,14,14,88.6,168,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 03:00 PM,2020,03,14,15,76.2,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 04:00 PM,2020,03,14,16,76.6,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 05:00 PM,2020,03,14,17,72.2,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 06:00 PM,2020,03,14,18,71.1,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 07:00 PM,2020,03,14,19,79.0,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 08:00 PM,2020,03,14,20,71.0,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 09:00 PM,2020,03,14,21,60.0,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 10:00 PM,2020,03,14,22,53.4,145,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-14 11:00 PM,2020,03,14,23,46.2,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 12:00 AM,2020,03,15,00,43.0,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 01:00 AM,2020,03,15,01,42.5,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 02:00 AM,2020,03,15,02,44.7,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 03:00 AM,2020,03,15,03,52.3,142,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 04:00 AM,2020,03,15,04,47.1,130,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 05:00 AM,2020,03,15,05,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 06:00 AM,2020,03,15,06,43.5,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 07:00 AM,2020,03,15,07,47.1,130,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 08:00 AM,2020,03,15,08,62.8,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 09:00 AM,2020,03,15,09,81.9,165,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 10:00 AM,2020,03,15,10,83.4,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 11:00 AM,2020,03,15,11,73.2,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 12:00 PM,2020,03,15,12,62.1,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 01:00 PM,2020,03,15,13,56.0,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 02:00 PM,2020,03,15,14,49.5,135,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 03:00 PM,2020,03,15,15,51.2,140,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 04:00 PM,2020,03,15,16,49.1,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 05:00 PM,2020,03,15,17,43.5,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 06:00 PM,2020,03,15,18,54.7,148,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 07:00 PM,2020,03,15,19,66.3,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 08:00 PM,2020,03,15,20,77.6,162,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 09:00 PM,2020,03,15,21,82.3,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 10:00 PM,2020,03,15,22,89.1,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-15 11:00 PM,2020,03,15,23,98.0,173,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 12:00 AM,2020,03,16,00,100.0,174,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 01:00 AM,2020,03,16,01,93.0,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 02:00 AM,2020,03,16,02,86.0,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 03:00 AM,2020,03,16,03,79.0,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 04:00 AM,2020,03,16,04,76.5,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 05:00 AM,2020,03,16,05,75.7,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 06:00 AM,2020,03,16,06,77.2,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 07:00 AM,2020,03,16,07,81.2,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 08:00 AM,2020,03,16,08,85.2,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 09:00 AM,2020,03,16,09,95.8,172,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 10:00 AM,2020,03,16,10,87.3,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 11:00 AM,2020,03,16,11,71.3,159,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 12:00 PM,2020,03,16,12,63.6,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 01:00 PM,2020,03,16,13,57.3,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 02:00 PM,2020,03,16,14,63.6,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 03:00 PM,2020,03,16,15,55.3,150,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 04:00 PM,2020,03,16,16,45.1,125,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 05:00 PM,2020,03,16,17,47.5,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 06:00 PM,2020,03,16,18,52.7,143,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 07:00 PM,2020,03,16,19,70.8,159,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 08:00 PM,2020,03,16,20,88.4,168,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 09:00 PM,2020,03,16,21,105.7,177,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 10:00 PM,2020,03,16,22,122.3,185,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-16 11:00 PM,2020,03,16,23,125.1,187,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 12:00 AM,2020,03,17,00,126.1,187,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 01:00 AM,2020,03,17,01,129.5,189,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 02:00 AM,2020,03,17,02,124.2,186,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 03:00 AM,2020,03,17,03,112.1,180,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 04:00 AM,2020,03,17,04,97.0,172,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 05:00 AM,2020,03,17,05,86.5,167,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 06:00 AM,2020,03,17,06,84.7,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 07:00 AM,2020,03,17,07,80.7,164,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 08:00 AM,2020,03,17,08,83.1,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 09:00 AM,2020,03,17,09,69.8,158,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 10:00 AM,2020,03,17,10,53.9,146,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 11:00 AM,2020,03,17,11,50.9,139,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 12:00 PM,2020,03,17,12,52.4,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 01:00 PM,2020,03,17,13,50.7,138,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 02:00 PM,2020,03,17,14,71.8,159,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 03:00 PM,2020,03,17,15,67.9,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 04:00 PM,2020,03,17,16,58.4,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 05:00 PM,2020,03,17,17,54.2,147,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 06:00 PM,2020,03,17,18,61.1,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 07:00 PM,2020,03,17,19,71.0,159,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 08:00 PM,2020,03,17,20,88.5,168,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 09:00 PM,2020,03,17,21,100.2,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 10:00 PM,2020,03,17,22,119.6,184,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-17 11:00 PM,2020,03,17,23,110.8,180,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 12:00 AM,2020,03,18,00,105.9,177,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 01:00 AM,2020,03,18,01,87.4,167,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 02:00 AM,2020,03,18,02,79.2,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 03:00 AM,2020,03,18,03,68.6,158,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 04:00 AM,2020,03,18,04,65.3,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 05:00 AM,2020,03,18,05,68.6,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 06:00 AM,2020,03,18,06,64.8,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 07:00 AM,2020,03,18,07,73.4,160,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 08:00 AM,2020,03,18,08,70.2,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 09:00 AM,2020,03,18,09,67.0,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 10:00 AM,2020,03,18,10,59.0,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 11:00 AM,2020,03,18,11,54.5,148,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 12:00 PM,2020,03,18,12,60.7,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 01:00 PM,2020,03,18,13,63.5,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 02:00 PM,2020,03,18,14,71.3,159,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 03:00 PM,2020,03,18,15,80.2,164,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 04:00 PM,2020,03,18,16,77.9,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 05:00 PM,2020,03,18,17,136.7,193,Unhealthy,195.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 06:00 PM,2020,03,18,18,107.8,178,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 07:00 PM,2020,03,18,19,108.9,179,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 08:00 PM,2020,03,18,20,119.4,184,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 09:00 PM,2020,03,18,21,119.2,184,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 10:00 PM,2020,03,18,22,135.6,192,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-18 11:00 PM,2020,03,18,23,130.8,190,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 12:00 AM,2020,03,19,00,124.9,187,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 01:00 AM,2020,03,19,01,113.9,181,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 02:00 AM,2020,03,19,02,98.4,173,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 03:00 AM,2020,03,19,03,110.2,179,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 04:00 AM,2020,03,19,04,100.6,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 05:00 AM,2020,03,19,05,92.8,170,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 06:00 AM,2020,03,19,06,98.2,173,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 07:00 AM,2020,03,19,07,121.7,185,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 08:00 AM,2020,03,19,08,106.8,177,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 09:00 AM,2020,03,19,09,93.3,171,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 10:00 AM,2020,03,19,10,69.3,158,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 11:00 AM,2020,03,19,11,61.1,154,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 12:00 PM,2020,03,19,12,55.0,149,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 01:00 PM,2020,03,19,13,50.5,138,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 02:00 PM,2020,03,19,14,50.2,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 03:00 PM,2020,03,19,15,53.1,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 04:00 PM,2020,03,19,16,49.5,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 05:00 PM,2020,03,19,17,52.7,143,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 06:00 PM,2020,03,19,18,61.8,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 07:00 PM,2020,03,19,19,89.9,169,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 08:00 PM,2020,03,19,20,118.9,184,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 09:00 PM,2020,03,19,21,153.5,204,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 10:00 PM,2020,03,19,22,150.7,201,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-19 11:00 PM,2020,03,19,23,175.8,226,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 12:00 AM,2020,03,20,00,218.9,269,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 01:00 AM,2020,03,20,01,265.0,315,Hazardous,311.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 02:00 AM,2020,03,20,02,219.5,269,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 03:00 AM,2020,03,20,03,235.7,285,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 04:00 AM,2020,03,20,04,242.9,293,Very Unhealthy,250.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 05:00 AM,2020,03,20,05,234.4,284,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 06:00 AM,2020,03,20,06,259.2,310,Hazardous,284.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 07:00 AM,2020,03,20,07,276.1,326,Hazardous,293.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 08:00 AM,2020,03,20,08,200.0,250,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 09:00 AM,2020,03,20,09,162.5,213,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 10:00 AM,2020,03,20,10,141.2,195,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 11:00 AM,2020,03,20,11,130.6,190,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 12:00 PM,2020,03,20,12,116.2,182,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 01:00 PM,2020,03,20,13,103.1,176,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 02:00 PM,2020,03,20,14,99.5,174,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 03:00 PM,2020,03,20,15,110.2,179,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 04:00 PM,2020,03,20,16,114.6,182,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 05:00 PM,2020,03,20,17,108.2,178,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 06:00 PM,2020,03,20,18,99.6,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 07:00 PM,2020,03,20,19,96.0,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 08:00 PM,2020,03,20,20,95.9,172,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 09:00 PM,2020,03,20,21,98.0,173,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 10:00 PM,2020,03,20,22,96.7,172,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-20 11:00 PM,2020,03,20,23,115.1,182,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 12:00 AM,2020,03,21,00,119.7,184,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 01:00 AM,2020,03,21,01,127.7,188,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 02:00 AM,2020,03,21,02,145.7,198,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 03:00 AM,2020,03,21,03,143.9,197,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 04:00 AM,2020,03,21,04,134.2,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 05:00 AM,2020,03,21,05,172.5,223,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 06:00 AM,2020,03,21,06,224.8,275,Very Unhealthy,277.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 07:00 AM,2020,03,21,07,221.4,271,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 08:00 AM,2020,03,21,08,248.7,298,Very Unhealthy,276.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 09:00 AM,2020,03,21,09,248.7,298,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2020-03-21 11:00 AM,2020,03,21,11,-999.0,-999,N/A,203.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 12:00 PM,2020,03,21,12,119.7,184,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 01:00 PM,2020,03,21,13,101.1,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 02:00 PM,2020,03,21,14,86.3,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 03:00 PM,2020,03,21,15,75.4,161,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 04:00 PM,2020,03,21,16,65.0,156,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 05:00 PM,2020,03,21,17,65.0,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 06:00 PM,2020,03,21,18,71.5,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 07:00 PM,2020,03,21,19,108.7,178,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 08:00 PM,2020,03,21,20,145.9,198,Unhealthy,183.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 09:00 PM,2020,03,21,21,160.9,211,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 10:00 PM,2020,03,21,22,151.4,202,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-21 11:00 PM,2020,03,21,23,115.7,182,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 12:00 AM,2020,03,22,00,76.8,162,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 01:00 AM,2020,03,22,01,54.4,148,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 02:00 AM,2020,03,22,02,43.2,120,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 03:00 AM,2020,03,22,03,38.0,107,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 04:00 AM,2020,03,22,04,41.5,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 05:00 AM,2020,03,22,05,39.7,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 06:00 AM,2020,03,22,06,33.3,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 07:00 AM,2020,03,22,07,33.1,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 08:00 AM,2020,03,22,08,47.0,129,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 09:00 AM,2020,03,22,09,47.0,129,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2020-03-22 11:00 AM,2020,03,22,11,-999.0,-999,N/A,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 12:00 PM,2020,03,22,12,73.7,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 01:00 PM,2020,03,22,13,71.1,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 02:00 PM,2020,03,22,14,52.1,142,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 03:00 PM,2020,03,22,15,41.3,115,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 04:00 PM,2020,03,22,16,38.6,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 05:00 PM,2020,03,22,17,46.3,128,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 06:00 PM,2020,03,22,18,51.2,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 07:00 PM,2020,03,22,19,55.6,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 08:00 PM,2020,03,22,20,53.8,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 09:00 PM,2020,03,22,21,51.4,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 10:00 PM,2020,03,22,22,42.1,117,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-22 11:00 PM,2020,03,22,23,43.5,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 12:00 AM,2020,03,23,00,50.2,137,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 01:00 AM,2020,03,23,01,64.6,156,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 02:00 AM,2020,03,23,02,81.3,164,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 03:00 AM,2020,03,23,03,89.6,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 04:00 AM,2020,03,23,04,88.3,168,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 05:00 AM,2020,03,23,05,75.1,161,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 06:00 AM,2020,03,23,06,69.0,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 07:00 AM,2020,03,23,07,84.5,166,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 08:00 AM,2020,03,23,08,82.2,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 09:00 AM,2020,03,23,09,67.1,157,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 10:00 AM,2020,03,23,10,67.5,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 11:00 AM,2020,03,23,11,52.2,142,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 12:00 PM,2020,03,23,12,48.6,133,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 01:00 PM,2020,03,23,13,52.3,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 02:00 PM,2020,03,23,14,53.1,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 03:00 PM,2020,03,23,15,48.0,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 04:00 PM,2020,03,23,16,48.0,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 05:00 PM,2020,03,23,17,51.5,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 06:00 PM,2020,03,23,18,62.2,154,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 07:00 PM,2020,03,23,19,74.1,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 08:00 PM,2020,03,23,20,89.0,168,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 09:00 PM,2020,03,23,21,100.5,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 10:00 PM,2020,03,23,22,120.2,184,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-23 11:00 PM,2020,03,23,23,127.1,188,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 12:00 AM,2020,03,24,00,121.0,185,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 01:00 AM,2020,03,24,01,119.5,184,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 02:00 AM,2020,03,24,02,156.7,207,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 03:00 AM,2020,03,24,03,193.9,244,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 04:00 AM,2020,03,24,04,212.9,263,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 05:00 AM,2020,03,24,05,231.0,281,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 06:00 AM,2020,03,24,06,239.0,289,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 07:00 AM,2020,03,24,07,221.0,271,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 08:00 AM,2020,03,24,08,219.0,269,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 09:00 AM,2020,03,24,09,158.5,209,Very Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 10:00 AM,2020,03,24,10,111.2,180,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 11:00 AM,2020,03,24,11,88.1,168,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 12:00 PM,2020,03,24,12,76.0,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 01:00 PM,2020,03,24,13,70.5,159,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 02:00 PM,2020,03,24,14,68.7,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 03:00 PM,2020,03,24,15,72.3,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 04:00 PM,2020,03,24,16,74.1,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 05:00 PM,2020,03,24,17,75.5,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 06:00 PM,2020,03,24,18,78.7,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 07:00 PM,2020,03,24,19,85.8,167,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 08:00 PM,2020,03,24,20,105.5,177,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 09:00 PM,2020,03,24,21,105.2,177,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 10:00 PM,2020,03,24,22,108.0,178,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-24 11:00 PM,2020,03,24,23,133.6,191,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 12:00 AM,2020,03,25,00,180.3,231,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 01:00 AM,2020,03,25,01,201.1,251,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 02:00 AM,2020,03,25,02,222.6,272,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 03:00 AM,2020,03,25,03,186.8,237,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 04:00 AM,2020,03,25,04,179.4,230,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 05:00 AM,2020,03,25,05,160.7,211,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 06:00 AM,2020,03,25,06,150.8,201,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 07:00 AM,2020,03,25,07,168.9,219,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 08:00 AM,2020,03,25,08,244.4,294,Very Unhealthy,320.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 09:00 AM,2020,03,25,09,232.2,282,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 10:00 AM,2020,03,25,10,172.6,223,Very Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 11:00 AM,2020,03,25,11,134.8,192,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 12:00 PM,2020,03,25,12,101.8,175,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 01:00 PM,2020,03,25,13,87.9,168,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 02:00 PM,2020,03,25,14,70.9,159,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 03:00 PM,2020,03,25,15,63.9,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 04:00 PM,2020,03,25,16,59.9,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 05:00 PM,2020,03,25,17,61.9,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 06:00 PM,2020,03,25,18,64.9,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 07:00 PM,2020,03,25,19,73.9,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 08:00 PM,2020,03,25,20,84.4,166,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 09:00 PM,2020,03,25,21,102.7,175,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 10:00 PM,2020,03,25,22,135.8,192,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-25 11:00 PM,2020,03,25,23,151.9,202,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 12:00 AM,2020,03,26,00,165.4,216,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 01:00 AM,2020,03,26,01,174.2,224,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 02:00 AM,2020,03,26,02,182.6,233,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 03:00 AM,2020,03,26,03,217.8,268,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 04:00 AM,2020,03,26,04,242.4,292,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 05:00 AM,2020,03,26,05,236.2,286,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 06:00 AM,2020,03,26,06,240.1,290,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 07:00 AM,2020,03,26,07,172.0,222,Very Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 08:00 AM,2020,03,26,08,135.5,192,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 09:00 AM,2020,03,26,09,119.2,184,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 10:00 AM,2020,03,26,10,99.6,174,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 11:00 AM,2020,03,26,11,82.7,165,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 12:00 PM,2020,03,26,12,68.8,158,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 01:00 PM,2020,03,26,13,65.9,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 02:00 PM,2020,03,26,14,62.4,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 03:00 PM,2020,03,26,15,64.7,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 04:00 PM,2020,03,26,16,62.3,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 05:00 PM,2020,03,26,17,57.1,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 06:00 PM,2020,03,26,18,81.5,164,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 07:00 PM,2020,03,26,19,108.2,178,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 08:00 PM,2020,03,26,20,143.6,196,Unhealthy,179.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 09:00 PM,2020,03,26,21,153.8,204,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 10:00 PM,2020,03,26,22,150.9,201,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-26 11:00 PM,2020,03,26,23,140.4,195,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 12:00 AM,2020,03,27,00,188.2,238,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 01:00 AM,2020,03,27,01,231.1,281,Very Unhealthy,274.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 02:00 AM,2020,03,27,02,253.6,304,Hazardous,276.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 03:00 AM,2020,03,27,03,201.8,252,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 04:00 AM,2020,03,27,04,155.9,206,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 05:00 AM,2020,03,27,05,122.4,186,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 06:00 AM,2020,03,27,06,92.7,170,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 07:00 AM,2020,03,27,07,84.3,166,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 08:00 AM,2020,03,27,08,101.6,175,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 09:00 AM,2020,03,27,09,152.8,203,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 10:00 AM,2020,03,27,10,105.9,177,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 11:00 AM,2020,03,27,11,73.9,161,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 12:00 PM,2020,03,27,12,52.9,144,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 01:00 PM,2020,03,27,13,44.4,123,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 02:00 PM,2020,03,27,14,36.6,104,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 03:00 PM,2020,03,27,15,34.3,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 04:00 PM,2020,03,27,16,32.6,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 05:00 PM,2020,03,27,17,34.8,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 06:00 PM,2020,03,27,18,41.9,117,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 07:00 PM,2020,03,27,19,50.9,139,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 08:00 PM,2020,03,27,20,61.4,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 09:00 PM,2020,03,27,21,74.7,161,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 10:00 PM,2020,03,27,22,98.3,173,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-27 11:00 PM,2020,03,27,23,100.6,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 12:00 AM,2020,03,28,00,108.3,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 01:00 AM,2020,03,28,01,125.1,187,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 02:00 AM,2020,03,28,02,137.6,193,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 03:00 AM,2020,03,28,03,143.8,197,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 04:00 AM,2020,03,28,04,139.4,194,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 05:00 AM,2020,03,28,05,134.2,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 06:00 AM,2020,03,28,06,144.1,197,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 07:00 AM,2020,03,28,07,119.5,184,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 08:00 AM,2020,03,28,08,94.2,171,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 09:00 AM,2020,03,28,09,73.6,160,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 10:00 AM,2020,03,28,10,67.3,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 11:00 AM,2020,03,28,11,57.6,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 12:00 PM,2020,03,28,12,45.3,125,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 01:00 PM,2020,03,28,13,38.6,109,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 02:00 PM,2020,03,28,14,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 03:00 PM,2020,03,28,15,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 04:00 PM,2020,03,28,16,38.0,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 05:00 PM,2020,03,28,17,41.0,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 06:00 PM,2020,03,28,18,46.4,128,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 07:00 PM,2020,03,28,19,52.2,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 08:00 PM,2020,03,28,20,61.1,154,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 09:00 PM,2020,03,28,21,58.0,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 10:00 PM,2020,03,28,22,57.5,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-28 11:00 PM,2020,03,28,23,57.7,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 12:00 AM,2020,03,29,00,56.8,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 01:00 AM,2020,03,29,01,71.4,159,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 02:00 AM,2020,03,29,02,75.7,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 03:00 AM,2020,03,29,03,79.8,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 04:00 AM,2020,03,29,04,81.7,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 05:00 AM,2020,03,29,05,76.1,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 06:00 AM,2020,03,29,06,70.5,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 07:00 AM,2020,03,29,07,63.6,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 08:00 AM,2020,03,29,08,49.3,135,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 09:00 AM,2020,03,29,09,35.1,99,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 10:00 AM,2020,03,29,10,30.0,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 11:00 AM,2020,03,29,11,26.5,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 12:00 PM,2020,03,29,12,26.2,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 01:00 PM,2020,03,29,13,28.1,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 02:00 PM,2020,03,29,14,28.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 03:00 PM,2020,03,29,15,25.5,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 04:00 PM,2020,03,29,16,24.7,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 05:00 PM,2020,03,29,17,23.8,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 06:00 PM,2020,03,29,18,27.4,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 07:00 PM,2020,03,29,19,42.7,119,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 08:00 PM,2020,03,29,20,54.8,149,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 09:00 PM,2020,03,29,21,57.9,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 10:00 PM,2020,03,29,22,57.4,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-29 11:00 PM,2020,03,29,23,57.7,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2020-03-30 12:00 AM,2020,03,30,00,58.3,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
