@@ -48,26 +48,27 @@ def download_files(baseurl, filename, output):
 
 today = date.today()
 day = today.day
-month = today.month
-month_str = str(f'{month:02d}')
+month = str(f'{today.month:02d}')
+year = str(today.year)
 
-latest_monthfile = ''.join(['Dhaka_PM2.5_2020_', month_str, '_MTD.csv'])
-monthfile = Path.cwd().joinpath('data', latest_monthfile)
-yearfilename = 'Dhaka_PM2.5_2020_YTD.csv'
+monthfilename = ''.join(['Dhaka_PM2.5_2020_', month, '_MTD.csv'])
+monthfilepath = Path.cwd().joinpath('data', monthfilename)
+
+yearfilename = ''.join(['Dhaka_PM2.5_', year, '_YTD.csv'])
 yearfilepath = Path.cwd().joinpath('data', yearfilename)
+
 base_url = 'http://dosairnowdata.org/dos/historical/Dhaka/2020/'
 
-if monthfile.exists():
-    print(f"Latest monthy data file exists. Checking data in {latest_monthfile} ..")
-    df = pd.read_csv(monthfile)
+if monthfilepath.exists():
+    print(f"Latest monthy data file exists. Checking data in {monthfilename} ..")
+    df = pd.read_csv(monthfilename)
     latest_day = int(df.Day.tail(1))
     if latest_day < (day-2):  # measurements appear to be uploaded within 48 hours
         print('More recent data is available online. Beginning download:')
-        download_files(base_url, latest_monthfile, monthfile)
+        download_files(base_url, monthfilename, monthfilepath)
     else:
         print('Local data files are up to date.')
-
 else:
     print("Latest monthly data file does not exist.\nDownloading latest data files..")
-    download_files(base_url, latest_monthfile, monthfile)
+    download_files(base_url, monthfilename, monthfilepath)
     download_files(base_url, yearfilename, yearfilepath)
