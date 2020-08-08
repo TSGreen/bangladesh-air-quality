@@ -61,7 +61,7 @@ base_url = 'http://dosairnowdata.org/dos/historical/Dhaka/2020/'
 
 if monthfilepath.exists():
     print(f"Latest monthy data file exists. Checking data in {monthfilename} ..")
-    df = pd.read_csv(monthfilename)
+    df = pd.read_csv(monthfilepath)
     latest_day = int(df.Day.tail(1))
     if latest_day < (day-2):  # measurements appear to be uploaded within 48 hours
         print('More recent data is available online. Beginning download:')

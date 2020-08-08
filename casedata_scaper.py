@@ -19,7 +19,8 @@ Created August 2020.
 import scrapy
 from scrapy.crawler import CrawlerProcess
 import pandas as pd
-
+from pathlib import Path
+import os 
 
 class CaseSpider(scrapy.Spider):
     """
@@ -31,15 +32,17 @@ class CaseSpider(scrapy.Spider):
     to pandas dataframe.
     """
 
+    name = 'CASE_spider'
+
     def start_requests(self):
         """Enter the desired webpage."""
         yield scrapy.Request(url=url, callback=self.parse_front)
 
     def parse_front(self, response):
         """First parsing to retrieve link to each daily data page."""
-        course_blocks = response.xpath('//tr[contains(@class,"sectiontableentry")]/td')
-        links_to_follow = course_blocks.xpath('./a/@href').extract()
-        dates = course_blocks.xpath('./a/text()').extract()
+        html_blocks = response.xpath('//a[contains(@href,"aqi-archives")]')
+        links_to_follow = html_blocks.xpath('@href').extract()
+        dates = html_blocks.xpath('text()').extract()
         for url, date in zip(links_to_follow, dates):
             date = date.strip()[24:]
             yield response.follow(url=url,
@@ -49,12 +52,20 @@ class CaseSpider(scrapy.Spider):
     def parse_pages(self, response):
         """Second parsing to extract data table and convert to dataframe."""
         data_table = response.xpath('//table[@class="mceItemTable"]')
-        df = pd.read_html(data_table.extract_first())[0]
+        df = pd.read_html(data_table.extract_first(), header=0, index_col=0)[0]
         date = response.meta['date'].replace('/', '-')
-        df.to_csv(date+'.csv')
+        df = pd.concat({date: df}, names=['Date'])
+        if datafile.exists():
+            df.to_csv(datafile, mode='a', header=False)
+        else: 
+            df.to_csv(datafile)
 
 
-url = "http://case.doe.gov.bd/index.php?option=com_content&view=category&id=8&Itemid=32"
+url = "http://case.doe.gov.bd/index.php?option=com_xmap&sitemap=1&Itemid=14"
+
+datafile = Path.cwd().joinpath('data', 'case_data.csv')
+if datafile.exists():
+    os.remove(datafile)
 
 # Run the Spider
 process = CrawlerProcess()
