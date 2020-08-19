@@ -11,7 +11,7 @@ For more details see my project page [here](https://tsgreen.github.io/dataprojec
 A write up of this data was published in a leading Bangladeshi newspaper: [The Daily Star](https://www.thedailystar.net/opinion/environment/news/breath-not-so-fresh-air-1870759)
 
 <h2> Expansion</h2> 
-Currently working on analysis of air quality in several other Bangladeshi cities, scrapped from the Bangladeshi government's Clean Air and Sustainable Environment (CASE) project. This data is much less complete than the US Embassy data for Dhaka, and only has one daily recording. 
+Currently working on analysis of air quality in several other Bangladeshi cities, scrapped from the Bangladeshi government's [Clean Air and Sustainable Environment (CASE)](http://case.doe.gov.bd/index.php?option=com_content&view=article&id=9&Itemid=31) project. This data is much less complete than the US Embassy data for Dhaka, and only has one daily recording. 
 
 # Project Structure
 
@@ -25,4 +25,4 @@ And a script to download the csv data files.
 1) Pre-processing: Imports and cleans the raw dataset and exports cleaned csv file.
 2) Analysis and Visualisation: Imports clean dataset and does the analysis of the data and creates the visuals.
 
-And a script to scrape the data from HTML.
+And a script to scrape the data from the HTML format [data archive](http://case.doe.gov.bd/index.php?option=com_content&view=category&id=8&Itemid=32).
