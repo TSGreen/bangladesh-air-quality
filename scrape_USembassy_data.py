@@ -63,7 +63,8 @@ if monthfilepath.exists():
     print(f"Latest monthy data file exists. Checking data in {monthfilename} ..")
     df = pd.read_csv(monthfilepath)
     latest_day = int(df.Day.tail(1))
-    if latest_day < (day-2):  # measurements appear to be uploaded within 48 hours
+    if latest_day < (day-2):  
+		# set to check within 2 days as measurements appear to be uploaded 48 hours later
         print('More recent data is available online. Beginning download:')
         download_files(base_url, monthfilename, monthfilepath)
     else:
