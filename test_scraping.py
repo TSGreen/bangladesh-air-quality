@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Development script:
+Used for finding the parameters needed to successfully scrape an individual webpage correctly
+before parseing the code to the scrapy spider (which will crawl the full archive).
+
 Created on Thu Aug  6 17:10:09 2020
 
 @author: tim
