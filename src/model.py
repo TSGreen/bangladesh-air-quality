@@ -20,17 +20,52 @@ datafile = Path.cwd().parent.joinpath('data', 'processed',
 
 df_raw = pd.read_csv(datafile, index_col='Date (LT)', parse_dates=['Date (LT)'])
 
-df_dayAQI = df_raw.resample('D').mean().AQI.dropna()
+#%%
+df2018=pd.read_csv('../data/raw/Dhaka_PM2.5_2018_YTD.csv', parse_dates=['Date (LT)'], index_col='Date (LT)')
+df2018.AQI.replace({-999:np.nan}, inplace=True)
+avg2018 = df2018.resample('M').mean().interpolate().resample('D').mean().interpolate().AQI
+std2018 = df2018.resample('M').std().interpolate().resample('D').mean().interpolate().AQI
+missing = pd.concat([avg2018['07/2018':'11/2018'], std2018['07/2018':'11/2018']], axis=1)
+missing.columns = ['AQI_mean', 'AQI_std']
+missing['noise'] = missing['AQI_std'].apply(lambda x: float(np.random.normal(0, x, 1)))
+fig, ax = plt.subplots(1, 1, figsize=(12, 8))
+df_raw.AQI.plot(ax=ax)
+missing['AQI_sim'] = missing['AQI_mean'].add(missing['noise'])
+missing.AQI_sim.plot(ax=ax, color='r')
+#%%
+fig, ax = plt.subplots(1, 1, figsize=(12, 8))
 
-df_deseasoned = df_dayAQI - df_dayAQI.rolling('30D').mean().dropna()
-df_stationary = df_deseasoned.diff().dropna()
+
+df_dayAQI = df_raw.resample('D').mean().AQI.dropna()
+df = df_dayAQI.append(missing['08/17/2018':'11/2/2018'].AQI_sim)
+df = df.resample('D').mean()
+df.plot(ax=ax)
 #%%
 
+#pm.auto_arima(y, fit_args)
+df_acf = df.diff(365).diff().dropna()
+
 fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(16, 14))
-df = df_dayAQI.diff().dropna().diff().dropna()
+plot_acf(df_acf, zero=False, ax=ax1, lags=20)
+plot_pacf(df_acf, zero=False, ax=ax2, lags=20)
+ax2.set_ylim(-0.5,0.5)
+# fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(16, 14))
+# plot_acf(df_acf, zero=False, ax=ax1, lags=[365, 730, 1095])
+# plot_pacf(df_acf, zero=False, ax=ax2, lags=[365, 730, 1095])
+#%%
+
+results = pm.auto_arima(df_acf, d=1, start_p=1, max_p=5, start_q=0, max_q=12,
+                        seasonal=True, m=365, D=1, start_P=0, max_P=0, 
+                        start_Q=0, max_Q=4, information_criterion='aic', 
+                        trace=True, error_action='ignore', stepwise=True)
+
+
+#%%
+fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(16, 14))
+df = df_dayAQI.diff(365).dropna()#.diff().dropna()
 #df = df_deseasoned
-plot_acf(df, zero=False, ax=ax1, lags=1400)
-plot_pacf(df, zero=False, ax=ax2, lags=1400)
+plot_acf(df, zero=False, ax=ax1, lags=400)
+plot_pacf(df, zero=False, ax=ax2, lags=400)
 
 #%%
 tmp = []
