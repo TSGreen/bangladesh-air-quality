@@ -19,7 +19,8 @@ from datetime import date
 from pathlib import Path
 import pandas as pd
 import requests
-###
+
+
 def download_files(baseurl, filename, output):
     """
     Download requested file.
@@ -51,25 +52,29 @@ day = today.day
 month = str(f'{today.month:02d}')
 year = str(today.year)
 
-monthfilename = ''.join(['Dhaka_PM2.5_2020_', month, '_MTD.csv'])
-monthfilepath = Path.cwd().joinpath('data', monthfilename)
+output_filepath = Path.cwd().joinpath('data', 
+                                    'bronze', 
+                                    'us_embassy')
 
-yearfilename = ''.join(['Dhaka_PM2.5_', year, '_YTD.csv'])
-yearfilepath = Path.cwd().joinpath('data', yearfilename)
+month_filename = 'Dhaka_PM2.5_'+year+'_'+month+'_MTD.csv'
+month_data_path = output_filepath.joinpath(month_filename)
 
-base_url = 'http://dosairnowdata.org/dos/historical/Dhaka/2020/'
+year_filename = 'Dhaka_PM2.5_'+year+'_YTD.csv'
+year_data_path = output_filepath.joinpath(year_filename)
 
-if monthfilepath.exists():
-    print(f"Latest monthy data file exists. Checking data in {monthfilename} ..")
-    df = pd.read_csv(monthfilepath)
+base_url = 'http://dosairnowdata.org/dos/historical/Dhaka/'+year+'/'
+
+if month_data_path.exists():
+    print(f"Latest monthy data file exists. Checking data in {month_filename} ..")
+    df = pd.read_csv(month_data_path)
     latest_day = int(df.Day.tail(1))
     if latest_day < (day-2):  
 		# set to check within 2 days as measurements appear to be uploaded 48 hours later
         print('More recent data is available online. Beginning download:')
-        download_files(base_url, monthfilename, monthfilepath)
+        download_files(base_url, month_filename, month_data_path)
     else:
         print('Local data files are up to date.')
 else:
     print("Latest monthly data file does not exist.\nDownloading latest data files..")
-    download_files(base_url, monthfilename, monthfilepath)
-    download_files(base_url, yearfilename, yearfilepath)
+    download_files(base_url, month_filename, month_data_path)
+    download_files(base_url, year_filename, year_data_path)
