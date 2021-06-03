@@ -6,12 +6,22 @@ The data is collected from the US Embassy in Dhaka, which records hourly air qua
 
 The recognised acceptable standard for AQI is up to 100, once the quality of air degrades to an AQI above 100, sensitive groups of people may experience adverse health effects. AQI values above 150 are considered "unhealthy", meaning everyone begins to be at risk of adverse health issues, the severity of which increases as the AQI gets larger -- with air deemed "very unhealthy" at AQI in excess of 200 and "extremely unhealthy" above 300.
 
+I have explored daily and seasonal variations in the data and created visualisations.
+
+Seasonal variations in Dhaka:
+![image](https://user-images.githubusercontent.com/62939263/120641280-3ac39700-c495-11eb-8462-33d59e877b83.png)
+
+Aggregated hourly varaitions:
+![image](https://user-images.githubusercontent.com/62939263/120641548-88d89a80-c495-11eb-8406-e67c309c8e01.png)
+
 For more details see my project page [here](https://tsgreen.github.io/dataproject_airquality.html).
 
 A write up of this data was published in a leading Bangladeshi newspaper: [The Daily Star](https://www.thedailystar.net/opinion/environment/news/breath-not-so-fresh-air-1870759)
 
 <h2> Expansion</h2> 
 Currently working on analysis of air quality in several other Bangladeshi cities, scrapped from the Bangladeshi government's [Clean Air and Sustainable Environment (CASE)](http://case.doe.gov.bd/index.php?option=com_content&view=article&id=9&Itemid=31) project. This data is much less complete than the US Embassy data for Dhaka, and only has one daily recording. 
+
+Combing soon! A web-app data dashboard showing all these data.
 
 # Project Structure
 
