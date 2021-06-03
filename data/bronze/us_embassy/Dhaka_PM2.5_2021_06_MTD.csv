@@ -1,0 +1,49 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dhaka,PM2.5 - Principal,2021-06-01 02:00 AM,2021,06,01,02,53.6,146,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2021-06-01 03:00 AM,2021,06,01,03,61.2,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 04:00 AM,2021,06,01,04,58.8,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 05:00 AM,2021,06,01,05,65.3,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 06:00 AM,2021,06,01,06,122.9,186,Unhealthy,177.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 07:00 AM,2021,06,01,07,89.9,169,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 08:00 AM,2021,06,01,08,56.7,152,Unhealthy,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 09:00 AM,2021,06,01,09,31.7,92,Moderate,7.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 10:00 AM,2021,06,01,10,18.3,64,Moderate,5.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 11:00 AM,2021,06,01,11,23.1,74,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 12:00 PM,2021,06,01,12,26.5,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 01:00 PM,2021,06,01,13,29.2,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 02:00 PM,2021,06,01,14,30.1,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 03:00 PM,2021,06,01,15,37.5,106,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 04:00 PM,2021,06,01,16,71.2,159,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 05:00 PM,2021,06,01,17,112.6,180,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 06:00 PM,2021,06,01,18,105.3,177,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 07:00 PM,2021,06,01,19,122.6,186,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 08:00 PM,2021,06,01,20,88.3,168,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 09:00 PM,2021,06,01,21,83.1,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 10:00 PM,2021,06,01,22,75.5,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-01 11:00 PM,2021,06,01,23,61.3,154,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 12:00 AM,2021,06,02,00,63.6,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 01:00 AM,2021,06,02,01,69.3,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 02:00 AM,2021,06,02,02,69.3,158,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2021-06-02 03:00 AM,2021,06,02,03,51.7,141,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 04:00 AM,2021,06,02,04,61.0,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 05:00 AM,2021,06,02,05,161.3,212,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 06:00 AM,2021,06,02,06,134.8,192,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 07:00 AM,2021,06,02,07,82.0,165,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 08:00 AM,2021,06,02,08,53.8,146,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 09:00 AM,2021,06,02,09,38.8,109,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 10:00 AM,2021,06,02,10,32.4,94,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 11:00 AM,2021,06,02,11,28.6,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 12:00 PM,2021,06,02,12,29.8,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 01:00 PM,2021,06,02,13,30.4,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 02:00 PM,2021,06,02,14,28.7,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 03:00 PM,2021,06,02,15,29.8,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 04:00 PM,2021,06,02,16,31.4,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 05:00 PM,2021,06,02,17,30.6,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 06:00 PM,2021,06,02,18,32.2,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 07:00 PM,2021,06,02,19,33.1,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 08:00 PM,2021,06,02,20,35.1,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 09:00 PM,2021,06,02,21,54.5,148,Unhealthy for Sensitive Groups,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 10:00 PM,2021,06,02,22,51.7,141,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-02 11:00 PM,2021,06,02,23,62.3,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-03 12:00 AM,2021,06,03,00,72.2,160,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2021-06-03 01:00 AM,2021,06,03,01,69.6,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
