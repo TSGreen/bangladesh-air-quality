@@ -10,7 +10,7 @@ Care needed when concatenating the daily figures.
 
 Script returns a dataframe version of each day's data.
 
-Updated (06/21) to only scrape dates after the most scrapping date.
+Updated (06/21) to only scrape dates after the most recent scrapping date.
 
 Created August 2020.
 Updated June 2021
