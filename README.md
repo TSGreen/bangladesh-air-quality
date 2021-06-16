@@ -9,7 +9,9 @@ The data for Dhaka is collected from the US Embassy in Dhaka, which records hour
 
 The recognised acceptable standard for AQI is up to 100, once the quality of air degrades to an AQI above 100, sensitive groups of people may experience adverse health effects. AQI values above 150 are considered "unhealthy", meaning everyone begins to be at risk of adverse health issues, the severity of which increases as the AQI gets larger -- with air deemed "very unhealthy" at AQI in excess of 200 and "extremely unhealthy" above 300.
 
-I have explored daily and seasonal variations in the data and created visualisations.
+I have explored daily and seasonal variations in the data and created visualisations, previews are shown below. 
+
+For full descriptions and commentary visit my [project portfolio page](https://tsgreen.github.io/dataproject_airquality.html).
 
 **Seasonal variations:**
 
@@ -27,8 +29,6 @@ I have explored daily and seasonal variations in the data and created visualisat
 **Variations across the day throughout the year:**
 
 ![image](https://user-images.githubusercontent.com/62939263/120923188-0cd98f00-c6ef-11eb-9f41-98bbc84f942d.png)
-
-For more details see my project page [here](https://tsgreen.github.io/dataproject_airquality.html).
 
 A write up of this data up to February 2020 was published in a leading Bangladeshi newspaper: [The Daily Star](https://www.thedailystar.net/opinion/environment/news/breath-not-so-fresh-air-1870759)
 ![image](https://user-images.githubusercontent.com/62939263/120923626-6773ea80-c6f1-11eb-96a7-612595e87d7f.png)
